@@ -1,1 +1,2 @@
-const lol = 1111111;
+
+const lol = 111;
